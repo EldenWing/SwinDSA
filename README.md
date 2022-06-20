@@ -17,7 +17,7 @@ We also provide many [training tricks](docs/tutorials/training_tricks.md) for be
 
 ## Dataset 
 
-You can get dataset from https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx
+You can get dataset [here](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)
 
 
 ## Pretrain Model

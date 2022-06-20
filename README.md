@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We use the mmsegmentation as the framework
+We use the [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) as the framework
 
 ## Installation
 
@@ -14,4 +14,11 @@ Please see [train.md](docs/train.md) and [inference.md](docs/inference.md) for t
 There are also tutorials for [customizing dataset](docs/tutorials/customize_datasets.md), [designing data pipeline](docs/tutorials/data_pipeline.md), [customizing modules](docs/tutorials/customize_models.md), and [customizing runtime](docs/tutorials/customize_runtime.md).
 We also provide many [training tricks](docs/tutorials/training_tricks.md) for better training and [useful tools](docs/useful_tools.md) for deployment.
 
+
+## Dataset 
+
+You can get dataset from https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx
+
+
+## Pretrain Model
 

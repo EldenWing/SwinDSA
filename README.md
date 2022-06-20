@@ -22,5 +22,5 @@ You can get dataset from https://www.isprs.org/education/benchmarks/UrbanSemLab/
 
 ## Pretrain Model
 
-Pretrain Model can be downloaded [here](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_small_patch4_window7_224.pth)
-And you can use [swin2mmseg.py](https://github.com/open-mmlab/mmsegmentation/blob/master/tools/model_converters/swin2mmseg.py) to convert it to mmseg.
+Pretrain Model can be downloaded [here](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_small_patch4_window7_224.pth).
+And you can use [swin2mmseg.py](https://github.com/open-mmlab/mmsegmentation/blob/master/tools/model_converters/swin2mmseg.py) to convert it to mmseg format.

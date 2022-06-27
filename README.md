@@ -10,7 +10,7 @@ Please refer to [get_started.md](docs/get_started.md#installation) for installat
 
 ## Get Started
 
-Please see [train.md](docs/train.md) and [inference.md](docs/inference.md) for the basic usage of MMSegmentation.
+Please see [train.md](docs/train.md) and [inference.md](docs/inference.md) for the basic usage of MMSegmentation. For training and validation, please see the [run.sh](/run.sh)
 There are also tutorials for [customizing dataset](docs/tutorials/customize_datasets.md), [designing data pipeline](docs/tutorials/data_pipeline.md), [customizing modules](docs/tutorials/customize_models.md), and [customizing runtime](docs/tutorials/customize_runtime.md).
 We also provide many [training tricks](docs/tutorials/training_tricks.md) for better training and [useful tools](docs/useful_tools.md) for deployment.
 
